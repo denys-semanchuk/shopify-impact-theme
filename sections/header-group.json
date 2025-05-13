@@ -55,6 +55,7 @@
         "show_country_flag": true,
         "show_country_name": false,
         "transparent_header_text_color": "#ffffff",
+        "transparent_logo": "shopify://shop_images/Kopie_navrhu_I_will_give_you_the_keys_of_the_kingdom_of_heaven__whatever_you_bind_on_earth_will_be_bound_in_heaven__and_whatever_you_loose_on_earth_will_be_loosed_in_heaven.-removebg.png",
         "reduce_padding": false,
         "background_opacity": 100,
         "background_blur_radius": 0
