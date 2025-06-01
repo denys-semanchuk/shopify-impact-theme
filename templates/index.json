@@ -369,20 +369,20 @@
           "type": "quote",
           "settings": {
             "logo_width": 100,
-            "author": "",
-            "content": "Share info about what your customers say about your products.",
-            "show_rating": false,
-            "rating": 4
+            "author": "Taylor, 25",
+            "content": " A brand that gets it—faith shouldn’t sacrifice style. Every piece feels like it was prayed over.",
+            "show_rating": true,
+            "rating": 5
           }
         },
         "16644243327ba53d2a-1": {
           "type": "quote",
           "settings": {
             "logo_width": 100,
-            "author": "",
-            "content": "Or share content about your promotion, offers...",
-            "show_rating": false,
-            "rating": 4
+            "author": "Priya, 31",
+            "content": "I’ve gifted your gear to 3 friends—all said it’s the most thoughtful ‘faith-meets-fashion’ gift ever. #Winning",
+            "show_rating": true,
+            "rating": 5
           }
         }
       },
