@@ -310,7 +310,7 @@
         "1664424230c4756b0e-0": {
           "type": "subheading",
           "settings": {
-            "text": "Subheading"
+            "text": ""
           }
         },
         "1664424230c4756b0e-1": {
@@ -337,6 +337,7 @@
         "allow_transparent_header": true,
         "enable_parallax": true,
         "image_size": "auto",
+        "image": "shopify://shop_images/We_create_clothing_that_unites_faith_and_style._No_cliches_only_sincerity..jpg",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
