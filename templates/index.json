@@ -344,29 +344,37 @@
         "166442457738b23caf-0": {
           "type": "item",
           "settings": {
-            "title": "Do you ship overseas?",
-            "content": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.</p>"
+            "title": "Do you offer free shipping?",
+            "content": "<p>Yes! Enjoy free delivery on all orders over €100 (or equivalent in your currency). For smaller orders, flat-rate shipping applies.</p>"
           }
         },
         "166442457738b23caf-1": {
           "type": "item",
           "settings": {
-            "title": "How long will it take to get my orders?",
-            "content": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.</p>"
+            "title": "How long does delivery take?",
+            "content": "<p>Typically 3–7 business days (EU) and 7–14 days internationally. Track your order via email updates!<br/><br/></p>"
           }
         },
         "166442457738b23caf-2": {
           "type": "item",
           "settings": {
-            "title": "Any question?",
-            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+            "title": "What’s your return policy?",
+            "content": "<p>We accept returns within 30 days for unworn, unwashed items with tags. Exchanges are free for sizing issues!</p>"
+          }
+        },
+        "item_NGNDqe": {
+          "type": "item",
+          "settings": {
+            "title": "How do I process a return?",
+            "content": "<p>Email us at hello@via-gratia.com with your order number, and we’ll guide you. Easy peasy!<br/><br/></p>"
           }
         }
       },
       "block_order": [
         "166442457738b23caf-0",
         "166442457738b23caf-1",
-        "166442457738b23caf-2"
+        "166442457738b23caf-2",
+        "item_NGNDqe"
       ],
       "settings": {
         "full_width": false,
