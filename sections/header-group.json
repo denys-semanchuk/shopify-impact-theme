@@ -17,13 +17,21 @@
         "message": {
           "type": "message",
           "settings": {
-            "text": "Announce something here",
+            "text": "New tees dropped",
+            "url": ""
+          }
+        },
+        "message_q8nqkz": {
+          "type": "message",
+          "settings": {
+            "text": "Free shipping over €100",
             "url": ""
           }
         }
       },
       "block_order": [
-        "message"
+        "message",
+        "message_q8nqkz"
       ],
       "settings": {
         "enable_sticky": false,
