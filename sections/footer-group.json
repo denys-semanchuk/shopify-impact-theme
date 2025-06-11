@@ -32,12 +32,12 @@
           "settings": {
             "icon": "picto-coupon",
             "mobile_icon_width": 24,
-            "icon_width": 32,
-            "icon_background_type": "circle",
+            "icon_width": 24,
+            "icon_background_type": "none",
             "icon_background": "",
             "icon_color": "",
-            "title": "Heading",
-            "content": "<p>Short content about your store</p>"
+            "title": "FAITH. STYLE. IMPACT",
+            "content": "<p>Drop the fake humble. Wear your faith</p>"
           }
         },
         "customer-support": {
@@ -50,7 +50,7 @@
             "icon_background": "",
             "icon_color": "",
             "title": "Customer service",
-            "content": "<p>Tell your customers how they can reach you.</p>"
+            "content": "<ol><li>Email: <a href=\"https://mailto:support@yourbrand.com/\" target=\"_blank\">hello@via-gratia.com</a></li><li>Instagram DMs: <a href=\"https://instagram.com/yourbrand\" target=\"_blank\">@via.gratia</a></li></ol>"
           }
         },
         "discount": {
@@ -63,7 +63,7 @@
             "icon_background": "",
             "icon_color": "",
             "title": "Refer a friend",
-            "content": "<p>Tell your customers about your promotional offers.</p>"
+            "content": "<p>For every friend who buys using your link, you <strong>both </strong>get 15% off your next order.<br/><br/><br/></p>"
           }
         },
         "payment": {
@@ -75,8 +75,8 @@
             "icon_background_type": "none",
             "icon_background": "",
             "icon_color": "",
-            "title": "Secure payment",
-            "content": "<p>Tel your customers about your payment methods.</p>"
+            "title": "SAFE & SANCTIFIED PAYMENTS",
+            "content": "<p><em>Where your treasure is, there your heart will be also.\"</em> (Matt. 6:21)<br/>Shop with 100% peace—our checkout is as secure as the Rock we stand on.</p>"
           }
         }
       },
