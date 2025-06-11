@@ -130,7 +130,7 @@
           "settings": {
             "title": "About",
             "content": "<p>Via Gratia isn’t a ministry. It’s a movement.No fake holiness.Just real people, bold designs, and threads that don’t shrink from hard questions.</p>",
-            "enable_follow_on_shop": true
+            "enable_follow_on_shop": false
           }
         }
       },
