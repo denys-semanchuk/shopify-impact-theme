@@ -264,9 +264,6 @@
   line-height: 100%;
 }
 
-.bacurr-cur-block.boxShadow.bottom_left.mobile_bottom_left.barcurr-showFlagAndCurrency.baCountry-modern.baCountry-default.baDropdownStyle {
-  display: none !important;
-}
 
 @media screen and (min-width: 700px) {
   .custom-spr__rating-value {
