@@ -264,6 +264,10 @@
   line-height: 100%;
 }
 
+.bacurr-cur-block {
+  display: none !important;
+}
+
 @media screen and (min-width: 700px) {
   .custom-spr__rating-value {
     margin-inline-end: var(--spacing-2);
